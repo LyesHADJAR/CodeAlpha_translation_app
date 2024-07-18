@@ -72,7 +72,5 @@ targetLang = ttk.Combobox(frame1, values=language_list, font=("Montserrat 15"), 
 targetLang.place(x=650, y=100, width=text_entry_width, height=30)
 targetLang.current(0)
 
-print(LANGUAGES)
-
 # Run the app
 root.mainloop()
