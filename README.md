@@ -2,6 +2,8 @@
 
 This is a simple Translator application built using Python and Tkinter. It allows users to translate text from one language to another using the Translate Python module.
 
+![alt text](<Screenshot from 2024-07-18 15-27-52.png>)
+
 ## Features
 
 - Translate text between different languages.
