@@ -5,6 +5,15 @@ from googletrans import LANGUAGES
 from translation import translate_text, clear_text
 from awesometkinter.bidirender import add_bidi_support
 
+# =============================================================================
+# TO DO:
+# - Fix the issue with the Arabic language
+# - Fix the Auto language detection
+# - Brainstorm ideas to improve the app
+# =============================================================================
+
+
+
 # Function to clear text
 def clear_text(text_entry1, text_entry2):
     text_entry1.delete("1.0", "end")
